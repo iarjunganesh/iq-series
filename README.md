@@ -18,6 +18,8 @@ Together, these IQs enable AI agents to reason, retrieve, and act with deep busi
 
 📺 Work IQ episodes premiere **9 AM PT on June 2, 2026** on [Microsoft Developer YouTube](https://aka.ms/iq-series/episodes).
 
+▶️ Watch all available episodes in the [Microsoft IQ Series playlist](https://aka.ms/iq-series/playlist).
+
 ## 📚 Episodes
 
 | **Episode**                                                                                                                          | **Description**                                                                    | **Video**       | **Cookbook/Lab**                                                                         |
@@ -25,9 +27,11 @@ Together, these IQs enable AI agents to reason, retrieve, and act with deep busi
 | [Foundry IQ: Unlocking Knowledge for your Agents](./Foundry-IQ/1-Foundry-IQ-Unlocking-Knowledge-for-Agents/README.md)                                    | Understand Foundry IQ's core components and how it fits into the agent architecture | [Watch Now 🎥](https://aka.ms/foundry-iq-series/episode1)     | [Cookbook](./Foundry-IQ/1-Foundry-IQ-Unlocking-Knowledge-for-Agents/cookbook/)                |
 | [Foundry IQ: Building the Data Pipeline with Knowledge Sources](./Foundry-IQ/2-Foundry-IQ-Building-the-Data-Pipeline-with-Knowledge-Sources/README.md)      | Learn how different content enters Foundry IQ from various sources                 | [Watch Now 🎥](https://aka.ms/foundry-iq-series/episode2)     | [Cookbook](./Foundry-IQ/2-Foundry-IQ-Building-the-Data-Pipeline-with-Knowledge-Sources/cookbook/) |
 | [Foundry IQ: Querying the Multi-Source AI Knowledge Bases](./Foundry-IQ/3-Foundry-IQ-Querying-the-Multi-Source-AI-Knowledge-Bases/README.md)                | Dive into Knowledge Bases and multi-source query paths                             | [Watch Now 🎥](https://aka.ms/foundry-iq-series/episode3)     | [Cookbook](./Foundry-IQ/3-Foundry-IQ-Querying-the-Multi-Source-AI-Knowledge-Bases/cookbook/)      |
-| [Work IQ: Data, context, and tools at scale](./Work-IQ/1-Work-IQ-Data-context-and-tools-at-scale/README.md)       | Introduces Work IQ architecture and protocol strategy across REST, A2A, and MCP for enterprise agent experiences. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode1) | [Cookbook](./Work-IQ/1-Work-IQ-Data-context-and-tools-at-scale/cookbook/) |
-| [Work IQ: A2A for Context‑Aware, Agentic Experiences](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/README.md)                  | Explores the A2A protocol, agent discovery patterns, and practical prototyping for context-aware agentic workflows. | 🗓️ Releasing June 9, 2026 | [Cookbook](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/cookbook/) |
+| [Work IQ: Data, context, and tools at scale](./Work-IQ/1-Work-IQ-Data-context-and-tools-at-scale/README.md)       | Introduces Work IQ architecture and protocol strategy across REST, A2A, and MCP for enterprise agent experiences. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode1) | [Cookbook](./Work-IQ/1-Work-IQ-Data-context-and-tools-at-scale/cookbook/README.md) |
+| [Work IQ: A2A for Context‑Aware, Agentic Experiences](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/README.md)                  | Explores the A2A protocol, agent discovery patterns, and practical prototyping for context-aware agentic workflows. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode2) | [Cookbook](./Work-IQ/2-Work-IQ-A2A-for-Context‑Aware-Agentic-Experiences/cookbook/README.md) |
+| [Work IQ: Tooling with MCP & Copilot CLI](./Work-IQ/3-Work-IQ-Tooling-with-MCP-and-Copilot-CLI/README.md)                  | Explores the unified MCP server of Work IQ and how to use it in Work IQ CLI and GitHub Copilot CLI. | [Watch Now 🎥](https://aka.ms/work-iq-series/episode3) | [Cookbook](./Work-IQ/3-Work-IQ-Tooling-with-MCP-and-Copilot-CLI/cookbook/README.md) |
 | Fabric IQ                                                                                                                            | Coming soon!                                                                       |                 |                                                                                     |
+| Web IQ                                                                                                                               | Coming soon!                                                                       |                 |                                                                                     |
 
 ### Episode Format
 
@@ -63,6 +67,13 @@ Completed all three Work IQ labs? You can now request your community badge.
 > Badges are issued by the Global AI Community, so please make sure you have an account before submitting.
 
 <br clear="left" />
+
+## 🚀 Continue Your Microsoft IQ Learning
+
+The IQ Series combines expert-led episodes with hands-on cookbooks and labs. You can also explore these complementary learning experiences:
+
+- Explore the [Microsoft IQ Deep Dive](https://aka.ms/iqdeepdive), a three-day workshop concept with Python notebooks and agents that bring together Foundry IQ, Work IQ, Fabric IQ, and Web IQ.
+- Register for and catch up on [Microsoft IQ Live](https://aka.ms/MicrosoftIQLive) for IQ news, product updates, demonstrations, architecture guidance, and new concepts from the ongoing live series.
 
 ## 🙏 Get Involved
 
